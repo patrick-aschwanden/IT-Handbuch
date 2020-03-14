@@ -1,4 +1,4 @@
-# Initial page
+# IT-Handbuch der KZN
 
 ## Getting Super Powers
 
@@ -21,5 +21,18 @@ echo 'You got to trust me on this, I saved the world'
 ```
 {% endcode %}
 
+| Eins | Zwei | Fünf |
+| :--- | :--- | :--- |
+| Drei | Vier | Sechs |
+|  |  |  |
 
+{% tabs %}
+{% tab title="First Tab" %}
+Dies ist der erste Eintrag
+{% endtab %}
+
+{% tab title="Second Tab" %}
+Dies der Zweite
+{% endtab %}
+{% endtabs %}
 
